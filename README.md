@@ -4,6 +4,10 @@
 
 这是一个简洁的记账网站
 
+预览地址请 [戳这里](https://www.okxdm.com/static/fys/Cashbook/#/billings)
+
+更多信息请 [前往博客](https://afreesoul.top/index.php/archives/120/) .
+
 ## 📖 功能介绍
 
 
